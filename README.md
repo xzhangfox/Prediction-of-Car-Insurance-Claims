@@ -1,5 +1,7 @@
-# Final-Project-Group5
+# Prediction-of-Car-Insurance-Claims
 
-This repository is form Group 5 (Lianjie Shan & Xi Zhang)'s final project for Machine Learning I. 
+Based on the researches on the subject of car insurance, construct machine learning models to classify customers by characteristics for insurance customers and predict claim amount. This project aims to provide more information to the car insurance market and make transactions more viable and efficient.
 
-We based our research on the subject of car insurance. The main problem is classifying customers by characteristics for insurers. The target is to provide more information to the car insurance market and make transactions more viable and efficient.
+Team Members: 
+
+Xi Zhang, Lianjie Shan
