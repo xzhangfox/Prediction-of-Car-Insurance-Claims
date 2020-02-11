@@ -20,10 +20,6 @@ Our initial plan is to use the existing data of the auto insurance company to tr
 After determining whether the customer will claim in the future, we divide the customers who will claim and use the new model to predict the amount.Due to the high tolerance of multilayer pecenptron to data and its better handling of specific values, we decided to use MLP network to predict specific values.<br/>    
 After training the MLP model with existing data, if the evaluation is reliable, we can use the characteristics of new customers to predict their future claims. But before we can implement this process, we need to start with data processing.<br/>
 <br/>
-<br/>
-  
-  
-
 # Data Description
 The data we chose was released by Kaggle, an open-source data site. The distributor xiaomengsun published it in 2018. It is made up of a record of 10,302 observations and 27 variables. This data can be downloaded from the following websites for study and research:
 https://www.kaggle.com/xiaomengsun/car-insurance-claim-data
