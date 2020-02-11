@@ -23,20 +23,19 @@ After training the MLP model with existing data, if the evaluation is reliable, 
 
 # Data Description
 The data we chose was released by Kaggle, an open-source data site. The distributor xiaomengsun published it in 2018. It is made up of a record of 10,302 observations and 27 variables. This data can be downloaded from the following websites for study and research:
-[Report](https://www.kaggle.com/xiaomengsun/car-insurance-claim-data)
+[Kaggle](https://www.kaggle.com/xiaomengsun/car-insurance-claim-data)
 
 # Models
-![img](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png)
-<img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png" width="300" height="280" /> 
-* Support Vector Method (SVM)
+<img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png" width="300" height="250" /> 
+## Support Vector Method (SVM)
 Support Vector Method (SVM) as a popular machine learning tool is most used for classification and regression. Generally speaking, SVM tries to find a plane that has the maximum margin and the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence. 
 
 ![img](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/mlp.png)
-* Multi-layer Perceptron
+## Multi-layer Perceptron
 In the part of model selection, we hope to train a neural network to achieve our goal because of the complexity of data and the relatively vague correlation between variables. MLP has a high degree of parallel processing, a high degree of nonlinear global function, good fault tolerance, associative memory function, very strong adaptive, self-learning function, so we finally decided to use MLP multilayer perceptron. 
 
-If you are interested in the performace and results of our models, please move to the report:  
-https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Final-Group-Project-Report/FinalReport.pdf  
+If you are interested in the performace and results of our models, please move to the [report](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Final-Group-Project-Report/FinalReport.pdf) 
+
 
 # Extension
 ![](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/k-means.png)
