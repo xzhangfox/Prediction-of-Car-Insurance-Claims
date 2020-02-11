@@ -5,7 +5,8 @@ This project aimed to provide more information to the car insurance market and m
 Team Members: 
 
 Xi Zhang, Lianjie Shan
-![image](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg)
+<img src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg" align=center />
+</div>  
 
 # Background
 As the automobile gradually becomes the necessity of every family, the car insurance also becomes more and more prosperous for auto insurance companies, to maximize revenue, they must sell corresponding insurance plans to different customers. However, because the types of customers are so diverse and the correlation between the characteristics is not obvious, the use of simple statistics cannot enable insurance companies to make accurate judgments about customers. With the advent of machine learning, more models are available to learn data in depth. Thus, more accurate predictions can be achieved.
@@ -32,8 +33,7 @@ The data we chose was released by Kaggle, an open-source data site. The distribu
 <img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png" width="270" height="210" /> 
 
 Support Vector Method (SVM) as a popular machine learning tool is most used for classification and regression. Generally speaking, SVM tries to find a plane that has the maximum margin and the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence. <br/>
-  
-    
+</div> 
     
 ## Multi-layer Perceptron
 
