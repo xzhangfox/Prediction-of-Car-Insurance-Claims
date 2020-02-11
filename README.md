@@ -6,7 +6,6 @@ Team Members:
 
 Xi Zhang, Lianjie Shan
 ![image](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg)
-<img src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg" width="200" height="400" />
 
 # Background
 As the automobile gradually becomes the necessity of every family, the car insurance also becomes more and more prosperous for auto insurance companies, to maximize revenue, they must sell corresponding insurance plans to different customers. However, because the types of customers are so diverse and the correlation between the characteristics is not obvious, the use of simple statistics cannot enable insurance companies to make accurate judgments about customers. With the advent of machine learning, more models are available to learn data in depth. Thus, more accurate predictions can be achieved.
@@ -15,8 +14,7 @@ As the automobile gradually becomes the necessity of every family, the car insur
 Machine learning, as the most cutting-edge technology, is able to dig deeper information through known data without the influence of appearances.Insurance market data are so complex that it is difficult to extract macro direction from large amounts of data. In theory, using machine learning as a tool to mine information is very efficient but the current market has little to offer.So we think this project is very valuable.
 
 # Definiation of the Problem
-![image](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/frame.png | width=100)
-
+<img src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/frame.png" width="200" height="400" />
 Our initial plan is to use the existing data of the auto insurance company to train the models, so that when new customers come in, we can use these models to predict whether they will claim or not according to their characteristics. With only two types of target data, SVM became our first choice.
 After determining whether the customer will claim in the future, we divide the customers who will claim and use the new model to predict the amount.Due to the high tolerance of multilayer pecenptron to data and its better handling of specific values, we decided to use MLP network to predict specific values.
 After training the MLP model with existing data, if the evaluation is reliable, we can use the characteristics of new customers to predict their future claims. But before we can implement this process, we need to start with data processing.
