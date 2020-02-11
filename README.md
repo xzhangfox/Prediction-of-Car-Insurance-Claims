@@ -23,10 +23,11 @@ After training the MLP model with existing data, if the evaluation is reliable, 
 
 # Data Description
 The data we chose was released by Kaggle, an open-source data site. The distributor xiaomengsun published it in 2018. It is made up of a record of 10,302 observations and 27 variables. This data can be downloaded from the following websites for study and research:
-https://www.kaggle.com/xiaomengsun/car-insurance-claim-data
+[Report](https://www.kaggle.com/xiaomengsun/car-insurance-claim-data)
 
 # Models
 ![img](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png)
+<img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png" width="300" height="280" /> 
 * Support Vector Method (SVM)
 Support Vector Method (SVM) as a popular machine learning tool is most used for classification and regression. Generally speaking, SVM tries to find a plane that has the maximum margin and the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence. 
 
