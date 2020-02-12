@@ -31,13 +31,10 @@ The data we chose was released by Kaggle, an open-source data site. The distribu
 ## Support Vector Method (SVM)  
 
 <img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/svm.png" width="270" height="210" />
-Support Vector Method (SVM) as a popular machine learning tool is most used for classification and regression. Generally speaking, SVM tries to find a plane that has the maximum margin and the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
-
+Support Vector Method (SVM) as a popular machine learning tool is most used for classification and regression. Generally speaking, SVM tries to find a plane that has the maximum margin and the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.  
   
-    
-    <br/>
-
-    
+  
+  
 ## Multi-layer Perceptron
 
 ![img](https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/mlp.png)
