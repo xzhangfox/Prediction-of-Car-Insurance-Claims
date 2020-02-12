@@ -3,7 +3,7 @@ Based on the researches on the subject of car insurance, constructed machine lea
 This project aimed to provide more information to the car insurance market and make transactions more viable and efficient.
 
 
-<img align="center" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg" width="840" height="500" />
+<img align="center" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg" width="850" height="500" />
 
 Team Members: 
 
