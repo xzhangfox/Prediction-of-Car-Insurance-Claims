@@ -2,9 +2,8 @@
 Based on the researches on the subject of car insurance, constructed machine learning models to classify customers by characteristics for insurance customers and predicted claim amount.  
 This project aimed to provide more information to the car insurance market and make transactions more viable and efficient.
 
-<div align="center">
+
 <img src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/carInsur.jpg" align=center width="790" height="560" />
-</div>
 
 Team Members: 
 
