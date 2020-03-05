@@ -22,7 +22,7 @@ As the automobile gradually becomes the necessity of every family, the car insur
 ## Motivation
 Machine learning, as the most cutting-edge technology, is able to dig deeper information through known data without the influence of appearances.Insurance market data are so complex that it is difficult to extract macro direction from large amounts of data. In theory, using machine learning as a tool to mine information is very efficient but the current market has little to offer.So we think this project is very valuable.
 
-## Definiation of the Problem
+## Definition of the Problem
 
 <img align="left" src="https://github.com/f0000000x/Prediction-of-Car-Insurance-Claims/blob/master/Images/frame.png" width="170" height="250" />  
 Our initial plan is to use the existing data of the auto insurance company to train the models, so that when new customers come in, we can use these models to predict whether they will claim or not according to their characteristics. With only two types of target data, SVM became our first choice.<br/>  
